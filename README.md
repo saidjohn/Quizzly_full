@@ -1,16 +1,13 @@
-# quizzly
+Quizzly app
 
-This is Quiz App In Math
+With Quizzly, you can improve your thinking, intelligence and logical skills 
+- You can download the apk file from my Telegram channel
+- Telegram channel: [Quizzly apk](https://t.me/saidjonportfolio/10)
 
-## Getting Started
+https://github.com/saidjohn/Quizzly_full/assets/120701354/fc9796b6-baea-4140-af5e-6ac7478d9c04
+## Contact
 
-This project is a starting point for a Flutter application.
+- Email: [saidjon.ibn.usmon@gmail.com](mailto:saidjon.ibn.usmon@gmail.com)
+- LinkedIn: [Saidjon Saidov](linkedin.com/in/saidjonsaidov)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
